@@ -20,5 +20,7 @@ public abstract class MultiSet {
 
     abstract void size();
 
+    ;
+
     // TODO finish adding abstract methods to fully describe what it means to be a MultiSet.
 }
