@@ -1,5 +1,5 @@
 /**
- * Abstract class representing a MultiSet ADT.
+ * Abstract class representing a MultiSet ADT...........
  */
 public abstract class MultiSet {
 
